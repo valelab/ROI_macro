@@ -9,12 +9,12 @@ Select a "foreground" ROI using built in selection tools
 Click "OK" in "Pause" dialog
 	Log window will output:
 		Filename
-		channel
-		selection area
-		mean pixel value
-		min pixel value
-		max pixel value
-		standard deviation
+		Channel
+		Selection area
+		Mean pixel value
+		Min pixel value
+		Max pixel value
+		Standard deviation
 
 Click OK in "Selection" dialog to select another ROI
 	Check box for "Background selection?" to mark next channel measurement "-bg"
